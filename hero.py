@@ -1,17 +1,15 @@
-key_switch_camera = 'c' # камера привязана к герою или нет
-key_switch_mode = 'z' # можно проходить сквозь препятствия или нет
+key_switch_camera = 'c'
+key_switch_mode = 'z'
 
-key_forward = 's'   # шаг назад
-key_back = 'w'      # шаг вперёд
-key_left = 'd'      # шаг вправо
-key_right = 'a'     # шаг влево
-key_up = 'e'        # шаг вверх
-key_down = 'q'      # шаг вниз
-
-key_turn_left = 'n'     # поворот камеры направо
-key_turn_right = 'm'    # поворот камеры налево
-
-key_build = 'b'     # построить блок перед собой
+key_forward = 's'
+key_back = 'w'
+key_left = 'd'
+key_right = 'a'
+key_up = 'e'
+key_down = 'q'
+key_turn_left = 'n'
+key_turn_right = 'm'
+key_build = 'b'
 key_destroy = 'v'
 
 
